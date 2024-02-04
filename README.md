@@ -1,3 +1,3 @@
 # various_studies
 
-Repository for short not linked studies
+Репозиторий для небольших исследований
